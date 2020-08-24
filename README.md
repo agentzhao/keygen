@@ -1,6 +1,6 @@
 # KeyGen
 
-[zhao-keygen.web.app]
+[https://zhao-keygen.web.app]
 
 Webapp hosted using firebase
 
