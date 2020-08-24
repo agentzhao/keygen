@@ -1,5 +1,4 @@
-# KeyGen
-zhao-keygen.web.app
+# [KeyGen](zhao-keygen.web.app)
 Webapp hosted using firebase
 
 Hashes your pepper and value to generate a password of 12 characters.
